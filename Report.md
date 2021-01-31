@@ -1,6 +1,6 @@
-# Food Deserts in Pasadena, California.
+# Food Deserts in Pasadena, California
 
-## Introduction and Background
+## Introduction and Business Problem
 
 The city of Pasadena, California is approximately 10 miles
 northeast of downtown Los Angeles, in the foothills of the
@@ -18,6 +18,10 @@ A food desert is "... an area that has limited access
 to affordable and nutritious food, in contrast with an
 area with higher access to supermarkets or vegetable shops
 with fresh foods". [Wikipedia](https://en.wikipedia.org/wiki/Food_desert)
+
+This project is aimed at entrepreneurs interested in opening a new retail
+outlet, and at Pasadena city planners and related government officials
+who may be in a place to incentivize these kinds of establishments. 
 
 ## Data
 
